@@ -1,4 +1,4 @@
-Gym Management System Database
+## Gym Management System Database
 Overview
 Entity-Relationship Diagram for a gym management system handling customer memberships, training programs, equipment tracking, and trainer assignments.
 Key Entities
